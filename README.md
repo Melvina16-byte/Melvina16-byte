@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg](https://th.bing.com/th/id/OIP.w-qTcyA4TSToAE1FZlj5nwHaEK?rs=1&pid=ImgDetMain)" alt="tableau" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> </a>
     <a href="https://www.google.com/analytics" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google-analytics" width="40" height="40"/> </a>
     <a href="https://looker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google-looker" width="40" height="40"/> </a>
