@@ -15,13 +15,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> </a>
-    <a href="https://www.google.com/analytics" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google-analytics" width="40" height="40"/> </a>
-    <a href="https://looker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google-looker" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> </a>
+<p align="left">
+- **Tableau**
+- **Power BI**
+- **Google Analytics**
+- **Google Looker Studio**
+- **MySQL**
+- **Excel**
 </p>
 
 <h3 align="left">Tableau Visualizations:</h3>
